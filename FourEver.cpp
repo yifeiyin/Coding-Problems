@@ -1,3 +1,9 @@
+// xor-min.cpp
+// Yifei Yin (c) 2018 Oct 21
+// See the problem at https://dmoj.ca/problem/4ever
+//
+// Licensed under GNU GPLv3. See license at https://fsf.org/
+//
 #include <iostream>
 #include <cmath>
 
